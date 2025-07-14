@@ -13,7 +13,7 @@ function Header() {
     <Container>
         <div className='lg:flex items-center'>
         <div className='w-full lg:w-1/4'>
-          <div className='flex items-center justify-center lg:justify-items-start border-r-2 border-[#422424]' >
+          <div className='flex items-center justify-center lg:justify-items-start border-r-2 border-[#fff]' >
            <CiMail className='text-white' />
            <p className='text-white pl-2 font-pops'>mail@yourcompany.com</p>
           </div>
